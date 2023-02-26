@@ -10,6 +10,7 @@ None
 2023.02.26 15:32 : Create Repository  
 2023.02.26 15:34 : Update README.md(Add to Lisence)  
 2023.02.26 15:45 : Update README.md(Add to English Version)  
+2023.02.26 20:30 : Upload Ball Sensor Board  
 ## Lisence
 (CC)BY-NC-ND 4.0  
 Applies to all works in this repository.  
@@ -23,8 +24,9 @@ Applies to all works in this repository.
 なし
 ## Update
 2023.02.26 15:32 : Create Repository  
-2023.02.26 15:34 : Update README.md(Add to Lisence)  
+2023.02023.02.26 20:30 : Upload Ball Sensor Board  
 2023.02.26 15:45 : Update README.md(Add to English Version)  
+2023.02.26 20:30 : Upload Ball Sensor Board  
 ## Lisence
 (CC)BY-NC-ND 4.0  
 ※このレポジトリー内のすべての制作物において適用いたします  
