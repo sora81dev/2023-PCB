@@ -7,6 +7,6 @@
 # Update
 2023.02.26 15:32 : Create Repository
 2023.02.26 15:34 : Update README.md
-#License
+# License
 (CC)BY-NC-ND 4.0
 このレポジトリー内のすべての制作物において適用いたします
