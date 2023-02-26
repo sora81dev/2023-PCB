@@ -6,7 +6,7 @@
 # 動作確認済　一覧
 なし
 # Update
-2023.02.26 15:32 : Create Repository
+2023.02.26 15:32 : Create Repository  
 2023.02.26 15:34 : Update README.md
 # License
 (CC)BY-NC-ND 4.0
