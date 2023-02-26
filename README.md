@@ -8,7 +8,7 @@ BOM & CPL
 None  
 ## Update
 2023.02.26 15:32 : Create Repository  
-2023.02.26 15:34 : Update README.md  
+2023.02.26 15:34 : Update README.md(Add to Lisence)  
 2023.02.26 15:45 : Update README.md(Add to English Version)  
 ## Lisence
 (CC)BY-NC-ND 4.0  
